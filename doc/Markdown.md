@@ -2,7 +2,7 @@
 
 ## example 1
 
-'''
+```
 # 一级標題
 
 ## 二级標題
@@ -37,7 +37,7 @@
 > Markdown使用電郵用字元「>」來引用。
 
 行間<abbr title="Hypertext Markup Language">HTML</abbr>亦受支援。
-'''
+```
 
 ## example 2
 
